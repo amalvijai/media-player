@@ -1,0 +1,24 @@
+{
+  "videos": [],
+  "categories": [
+    {
+      "categoryName": "vedios",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Illuminati|Aavesham",
+          "url": "https://images.indianexpress.com/2024/04/Aavesham-movie-review.jpg",
+          "embedLink": "http://www.youtube.com/embed/tOM-nWPcR4U"
+        },
+        {
+          "id": "1",
+          "caption": "Illuminati|Aavesham",
+          "url": "https://images.indianexpress.com/2024/04/Aavesham-movie-review.jpg",
+          "embedLink": "http://www.youtube.com/embed/tOM-nWPcR4U"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": []
+}
